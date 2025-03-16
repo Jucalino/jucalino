@@ -1,6 +1,6 @@
 ## Bem-vindo(a) ao meu perfil! Eu sou o José Luis 
 
-- 🌱 Atualmente eu estudo Angular 
+- 🌱 Atualmente estudando NextJs
 
 <div>
   <a href="https://github.com/jucalino">
