@@ -1,6 +1,11 @@
 ## Bem-vindo(a) ao meu perfil! Eu sou o José Luis 
 
 - 🌱 Atualmente estudando NextJs
+
+  <div>
+  <a href="https://github.com/jucalino">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jucalino&layout=compact&langs_count=7&theme=dark"/>
+</div>
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Juca-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
